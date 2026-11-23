@@ -8,6 +8,10 @@ I built an Android–Windows speculative decoding system that sustained **14.0 t
 
 See the [Android–Windows project and phone demo](https://github.com/Doffin-azure/Android-Speculative-Inference) and the [desktop two-process demo](https://github.com/Doffin-azure/spec-split-demo-project).
 
+## Course project
+
+[Stock Trading Record Analysis](https://github.com/Doffin-azure/System-of-Stocks-Trading-Records) uses Hadoop MapReduce to aggregate trade records and a Spring Boot dashboard to explore capital flows and buy/sell activity by trade size and time window.
+
 ## Current interests
 
 - **EEG modeling** — Learning representations for decoding brain signals and studying how well models generalize to new participants.
