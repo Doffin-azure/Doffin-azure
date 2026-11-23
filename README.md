@@ -14,3 +14,7 @@ In a local-network experiment generating about 1,000 tokens, the system sustaine
 
 - **EEG modeling** — Learning representations for decoding brain signals and understanding how well models generalize to new participants.
 - **AI-assisted game development** — Using generative AI to turn gameplay ideas into playable prototypes, from generating code and assets to refining gameplay through playtesting.
+
+## Contact
+
+[fangl2026@mail.sustech.edu.cn](mailto:fangl2026@mail.sustech.edu.cn)
