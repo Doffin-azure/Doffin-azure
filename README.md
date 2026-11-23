@@ -12,9 +12,12 @@ I built an Android–Windows speculative decoding system that sustained **14.0 t
 
 See the [Android–Windows project and phone demo](https://github.com/Doffin-azure/Android-Speculative-Inference) and the [desktop two-process demo](https://github.com/Doffin-azure/spec-split-demo-project).
 
-## Course project
+## SUSTech course projects
 
-[Stock Trading Record Analysis](https://github.com/Doffin-azure/System-of-Stocks-Trading-Records) uses Hadoop MapReduce to aggregate trade records and a Spring Boot dashboard to explore capital flows and buy/sell activity by trade size and time window.
+- [Stock Trading Record Analysis](https://github.com/Doffin-azure/System-of-Stocks-Trading-Records) — STA321 Distributed Storage and Parallel Computing. Aggregates trade records with Hadoop MapReduce and visualizes capital flows with Spring Boot.
+- [Shenzhen Railway Database System](https://github.com/Doffin-azure/Database-System-of-Shenzhen-Railway) — CS307 Principles of Database Systems. Models railway stations, routes, and passenger records in MySQL and exposes them through a Flask application.
+- [Jungle Chess in Java](https://github.com/Doffin-azure/jungle-game-in-java) — CS109 Introduction to Computer Programming. Implements a playable Swing board game with local play and a computer opponent.
+- [Survival Analysis Learning Report](https://github.com/Doffin-azure/Survival-Analysis-Learning-Report) — Big Data coursework. Reproduces a customer churn and lifetime value analysis with Spark.
 
 ## Current interests
 
