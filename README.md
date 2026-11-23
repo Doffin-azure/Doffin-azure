@@ -14,7 +14,7 @@ See the [Android–Windows project and phone demo](https://github.com/Doffin-azu
 
 ## Course project
 
-[Stock Trading Record Analysis](https://github.com/Doffin-azure/System-of-Stocks-Trading-Records), the second pinned repository on this profile, uses Hadoop MapReduce to aggregate trade records and a Spring Boot dashboard to explore capital flows and buy/sell activity by trade size and time window.
+[Stock Trading Record Analysis](https://github.com/Doffin-azure/System-of-Stocks-Trading-Records) uses Hadoop MapReduce to aggregate trade records and a Spring Boot dashboard to explore capital flows and buy/sell activity by trade size and time window.
 
 ## Current interests
 
