@@ -17,7 +17,7 @@ See the [Android–Windows project and phone demo](https://github.com/Doffin-azu
 - [Stock Trading Record Analysis](https://github.com/Doffin-azure/System-of-Stocks-Trading-Records) — STA321 Distributed Storage and Parallel Computing. Aggregates trade records with Hadoop MapReduce and visualizes capital flows with Spring Boot.
 - [Shenzhen Railway Database System](https://github.com/Doffin-azure/Database-System-of-Shenzhen-Railway) — CS307 Principles of Database Systems. Models railway stations, routes, and passenger records in MySQL and exposes them through a Flask application.
 - [Jungle Chess in Java](https://github.com/Doffin-azure/jungle-game-in-java) — CS109 Introduction to Computer Programming. Implements a playable Swing board game with local play and a computer opponent.
-- [Survival Analysis Learning Report](https://github.com/Doffin-azure/Survival-Analysis-Learning-Report) — Big Data coursework. Reproduces a customer churn and lifetime value analysis with Spark.
+- [Survival Analysis Learning Report](https://github.com/Doffin-azure/Survival-Analysis-Learning-Report) — STA323 Big Data Analysis Software and Application (Hadoop or Spark). Uses Spark to analyze MACCDC network logs and reproduce a customer churn and lifetime value analysis.
 
 ## Current interests
 
