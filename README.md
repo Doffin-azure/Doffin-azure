@@ -2,6 +2,10 @@
 
 I earned my bachelor's degree in Data Science at Southern University of Science and Technology (SUSTech), where I am now pursuing a master's degree in Computer Science.
 
+## Experience
+
+At the Gauss Lab within Huawei's 2012 Labs, I was responsible for maintaining the execution layer of the Gauss database.
+
 ## Undergraduate thesis
 
 I built an Android–Windows speculative decoding system that sustained **14.0 tokens/s** in a 1,000-token experiment, about **93.5% faster** than running the target model on the phone alone.
@@ -10,7 +14,7 @@ See the [Android–Windows project and phone demo](https://github.com/Doffin-azu
 
 ## Course project
 
-[Stock Trading Record Analysis](https://github.com/Doffin-azure/System-of-Stocks-Trading-Records) uses Hadoop MapReduce to aggregate trade records and a Spring Boot dashboard to explore capital flows and buy/sell activity by trade size and time window.
+[Stock Trading Record Analysis](https://github.com/Doffin-azure/System-of-Stocks-Trading-Records), the second pinned repository on this profile, uses Hadoop MapReduce to aggregate trade records and a Spring Boot dashboard to explore capital flows and buy/sell activity by trade size and time window.
 
 ## Current interests
 
